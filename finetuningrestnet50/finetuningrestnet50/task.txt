@@ -1,0 +1,16 @@
+use this https://huggingface.co/google/vit-base-patch16-224 and try to do a finetuning 
+
+task 1 - 
+do a fine tuning of last layer 
+and then check the accuracy 
+
+task 2 - 
+
+do the fine tuning of entire layer 
+
+task 3 - 
+
+do the fine tuning of some of the layer 
+
+Try to make a bettter model by adjusting the parameter at a time of trainning 
+
