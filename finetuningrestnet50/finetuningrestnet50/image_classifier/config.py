@@ -1,1 +1,5 @@
-# config.py - auto-generated
+IMAGE_SIZE = 224
+BATCH_SIZE = 32
+NUM_CLASSES= 2
+EPOCHS = 10 
+MODEL_NAME = "microsoft/resnet-50"

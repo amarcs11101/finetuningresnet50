@@ -33,4 +33,4 @@ def create_structure(structure):
 
 if __name__ == "__main__":
     create_structure(structure)
-    print("✅ Full image classification project structure created.")
+    print("Full image classification project structure created.")
